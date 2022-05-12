@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/05/12/hello-world/</loc>
+    <loc>https://cube-s.top/2022/05/12/hello-world/</loc>
     
     <lastmod>2022-05-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/movies/index.html</loc>
+    <loc>https://cube-s.top/movies/index.html</loc>
     
     <lastmod>2022-05-12</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/Gallery/index.html</loc>
+    <loc>https://cube-s.top/Gallery/index.html</loc>
     
     <lastmod>2022-05-12</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
+    <loc>https://cube-s.top/music/index.html</loc>
     
     <lastmod>2022-05-12</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://cube-s.top/</loc>
     <lastmod>2022-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
